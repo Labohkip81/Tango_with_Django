@@ -1,0 +1,24 @@
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Python
+Pip package manager
+Django
+Git
+GitHub
+HTML
+CSS
+JavaScript
+JQuery
+Twitter Bootstrap
+Bing Search API via Azure Datamarket
+PythonAnywhere
